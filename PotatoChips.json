@@ -1,0 +1,152 @@
+﻿[
+  {
+    "ProName": "Sweet Chili Heat",
+    "GraphName": "",
+    "costPrice": "2.47",
+    "MSRP": "1.00",
+    "QOH": "73",
+    "QOBO": "127",
+    "Desc": " YUMMINESS MMMMM",
+    "BRAND": "Doritos"
+  },
+  {
+    "ProName": "Zesty Cheese",
+    "GraphName": "",
+    "costPrice": "2.47",
+    "MSRP": "1.00",
+    "QOH": "25",
+    "QOBO": "175",
+    "Desc": "Cheesy goodness",
+    "BRAND": "Doritos"
+  },
+  {
+    "ProName": "Cool Ranch",
+    "GraphName": "",
+    "costPrice": "2.47",
+    "MSRP": "1.00",
+    "QOH": "101",
+    "QOBO": "99",
+    "Desc": "The coolest chips in town",
+    "BRAND": "Doritos"
+  },
+  {
+    "ProName": "Nacho Cheese",
+    "GraphName": "",
+    "costPrice": "2.47",
+    "MSRP": "1.00",
+    "QOH": "15",
+    "QOBO": "185",
+    "Desc": "The OG triangle ",
+    "BRAND": "Doritos"
+  },
+  {
+    "ProName": "Chicken",
+    "GraphName": "",
+    "costPrice": "2.99",
+    "MSRP": "1.50",
+    "QOH": "200",
+    "QOBO": "0",
+    "Desc": "New Chicken flavored Doritos, sponsored by PUBG",
+    "BRAND": "Doritos"
+  },
+  {
+    "ProName": "Ketchup",
+    "GraphName": "",
+    "costPrice": "2.97",
+    "MSRP": "0.75",
+    "QOH": "40",
+    "QOBO": "160",
+    "Desc": "Only in Canada",
+    "BRAND": "Lays"
+  },
+  {
+    "ProName": "Dill pickle",
+    "GraphName": "",
+    "costPrice": "2.97",
+    "MSRP": "0.75",
+    "QOH": "5",
+    "QOBO": "195",
+    "Desc": "The only good thing pickles responsible for",
+    "BRAND": "Lays"
+  },
+  {
+    "ProName": "Original",
+    "GraphName": "",
+    "costPrice": "2.97",
+    "MSRP": "0.75",
+    "QOH": "66",
+    "QOBO": "134",
+    "Desc": "Cant have just ONE",
+    "BRAND": "Lays"
+  },
+  {
+    "ProName": "Bar-B-Q",
+    "GraphName": "",
+    "costPrice": "2.97",
+    "MSRP": "0.75",
+    "QOH": "90",
+    "QOBO": "110",
+    "Desc": "No fire required",
+    "BRAND": "Lays"
+  },
+  {
+    "ProName": "Salt & vinegar",
+    "GraphName": "",
+    "costPrice": "2.97",
+    "MSRP": "0.75",
+    "QOH": "80",
+    "QOBO": "120",
+    "Desc": "YEAH!",
+    "BRAND": "Lays"
+  },
+  {
+    "ProName": "Salt & vinegar",
+    "GraphName": "",
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "30",
+    "QOBO": "70",
+    "Desc": "S&V Kettle chip",
+    "BRAND": "Miss Vic"
+  },
+  {
+    "ProName": "garlic and pepper",
+    "GraphName": "",
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "22",
+    "QOBO": "78",
+    "Desc": "Trust me, its good",
+    "BRAND": "Miss Vic"
+  },
+  {
+    "ProName": "Jalapeño",
+    "GraphName": "",
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "70",
+    "QOBO": "30",
+    "Desc": "HOT HOT HOT",
+    "BRAND": "Miss Vic"
+  },
+  {
+    "ProName": "Original Recipe",
+    "GraphName": "",
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "10",
+    "QOBO": "90",
+    "Desc": "Crafted with care since 1987",
+    "BRAND": "Miss Vic"
+  },
+  {
+    "ProName": "Sweet chili & sour cream",
+    "GraphName": "",
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "90",
+    "QOBO": "10",
+    "Desc": "not as hot",
+    "BRAND": "Miss Vic"
+  }
+]
