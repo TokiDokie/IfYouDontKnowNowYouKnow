@@ -119,8 +119,8 @@
     "Desc": "EVIL chip",
     "BRAND": "Miss_Vic"
   },
-  {
-    "ProName": "Jalapeño",
+    {
+    "ProName": "Jalapeno",
     "GraphName": "",
     "costPrice": "3.25",
     "MSRP": "1.25",
@@ -134,9 +134,9 @@
     "GraphName": "",
     "costPrice": "3.25",
     "MSRP": "1.25",
-    "QOH": "10",
-    "QOBO": "90",
-    "Desc": "Crafted with care since 1987",
+    "QOH": "30",
+    "QOBO": "70",
+    "Desc": "Crafting with care since 1987",
     "BRAND": "Miss_Vic"
   },
   {
@@ -148,5 +148,5 @@
     "QOBO": "10",
     "Desc": "not as hot",
     "BRAND": "Miss_Vic"
-  }
+  },
 ]
