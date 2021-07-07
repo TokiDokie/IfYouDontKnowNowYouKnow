@@ -99,54 +99,14 @@
     "Desc": "YEAH!",
     "BRAND": "Lays"
   },
-   {
-    "ProName": "Ketchup",
-    "GraphName": "",
-    "costPrice": "2.97",
-    "MSRP": "0.75",
-    "QOH": "40",
-    "QOBO": "160",
-    "Desc": "Only in Canada",
-    "BRAND": "Lays"
-  },
-  {
-    "ProName": "Dill pickle",
-    "GraphName": "",
-    "costPrice": "2.97",
-    "MSRP": "0.75",
-    "QOH": "5",
-    "QOBO": "195",
-    "Desc": "The only good thing pickles responsible for",
-    "BRAND": "Lays"
-  },
-  {
-    "ProName": "Original",
-    "GraphName": "",
-    "costPrice": "2.97",
-    "MSRP": "0.75",
-    "QOH": "66",
-    "QOBO": "134",
-    "Desc": "Cant have just ONE",
-    "BRAND": "Lays"
-  },
-  {
-    "ProName": "Bar-B-Q",
-    "GraphName": "",
-    "costPrice": "2.97",
-    "MSRP": "0.75",
-    "QOH": "90",
-    "QOBO": "110",
-    "Desc": "No fire required",
-    "BRAND": "Lays"
-  },
   {
     "ProName": "Salt & vinegar",
     "GraphName": "",
-    "costPrice": "2.97",
-    "MSRP": "0.75",
-    "QOH": "80",
-    "QOBO": "120",
-    "Desc": "YEAH!",
-    "BRAND": "Lays"
+    "costPrice": "3.25",
+    "MSRP": "1.25",
+    "QOH": "30",
+    "QOBO": "70",
+    "Desc": "S&V Kettle chip",
+    "BRAND": "Miss Vic"
   }
 ]
