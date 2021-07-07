@@ -107,7 +107,7 @@
     "QOH": "30",
     "QOBO": "70",
     "Desc": "S&V Kettle chip",
-    "BRAND": "Miss Vic"
+    "BRAND": "Miss_Vic"
   },
   {
     "ProName": "garlic and pepper",
@@ -117,7 +117,7 @@
     "QOH": "22",
     "QOBO": "78",
     "Desc": "Trust me, its good",
-    "BRAND": "Miss Vic"
+    "BRAND": "Miss_Vic"
   },
   {
     "ProName": "Jalapeño",
@@ -127,7 +127,7 @@
     "QOH": "70",
     "QOBO": "30",
     "Desc": "HOT HOT HOT",
-    "BRAND": "Miss Vic"
+    "BRAND": "Miss_Vic"
   },
   {
     "ProName": "Original Recipe",
@@ -137,7 +137,7 @@
     "QOH": "10",
     "QOBO": "90",
     "Desc": "Crafted with care since 1987",
-    "BRAND": "Miss Vic"
+    "BRAND": "Miss_Vic"
   },
   {
     "ProName": "Sweet chili & sour cream",
@@ -147,6 +147,6 @@
     "QOH": "90",
     "QOBO": "10",
     "Desc": "not as hot",
-    "BRAND": "Miss Vic"
+    "BRAND": "Miss_Vic"
   }
 ]
