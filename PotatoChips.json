@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "ProName": "Sweet Chili Heat",
     "GraphName": "",
@@ -107,37 +107,37 @@
     "QOH": "30",
     "QOBO": "70",
     "Desc": "S&V Kettle chip",
-    "BRAND": "Miss_Vic"
+    "BRAND": "Miss Vic"
   },
   {
-    "ProName": "Salt & EVIL vinegar",
+    "ProName": "garlic and pepper",
     "GraphName": "",
     "costPrice": "3.25",
     "MSRP": "1.25",
-    "QOH": "60",
-    "QOBO": "40",
-    "Desc": "EVIL chip",
-    "BRAND": "Miss_Vic"
+    "QOH": "22",
+    "QOBO": "78",
+    "Desc": "Trust me, its good",
+    "BRAND": "Miss Vic"
   },
-    {
-    "ProName": "Jalapeno",
+  {
+    "ProName": "Jalapeño",
     "GraphName": "",
     "costPrice": "3.25",
     "MSRP": "1.25",
     "QOH": "70",
     "QOBO": "30",
     "Desc": "HOT HOT HOT",
-    "BRAND": "Miss_Vic"
+    "BRAND": "Miss Vic"
   },
   {
     "ProName": "Original Recipe",
     "GraphName": "",
     "costPrice": "3.25",
     "MSRP": "1.25",
-    "QOH": "30",
-    "QOBO": "70",
-    "Desc": "Crafting with care since 1987",
-    "BRAND": "Miss_Vic"
+    "QOH": "10",
+    "QOBO": "90",
+    "Desc": "Crafted with care since 1987",
+    "BRAND": "Miss Vic"
   },
   {
     "ProName": "Sweet chili & sour cream",
@@ -147,6 +147,6 @@
     "QOH": "90",
     "QOBO": "10",
     "Desc": "not as hot",
-    "BRAND": "Miss_Vic"
-  },
+    "BRAND": "Miss Vic"
+  }
 ]
