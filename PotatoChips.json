@@ -1,7 +1,7 @@
 [
   {
     "ProName": "Sweet Chili Heat",
-    "GraphName": "",
+    "GraphName": "Doritos_SweetChiliHeat.png",
     "costPrice": "2.47",
     "MSRP": "1.00",
     "QOH": "73",
@@ -11,7 +11,7 @@
   },
   {
     "ProName": "Zesty Cheese",
-    "GraphName": "",
+    "GraphName": "Doritos_ZestyCheese.png",
     "costPrice": "2.47",
     "MSRP": "1.00",
     "QOH": "25",
@@ -21,7 +21,7 @@
   },
   {
     "ProName": "Cool Ranch",
-    "GraphName": "",
+    "GraphName": "Doritos_CoolRanch.png",
     "costPrice": "2.47",
     "MSRP": "1.00",
     "QOH": "101",
@@ -41,7 +41,7 @@
   },
   {
     "ProName": "Chicken",
-    "GraphName": "",
+    "GraphName": "Doritos_Chicken.png",
     "costPrice": "2.99",
     "MSRP": "1.50",
     "QOH": "200",
@@ -51,7 +51,7 @@
   },
   {
     "ProName": "Ketchup",
-    "GraphName": "",
+    "GraphName": "Lays_Ketchup.png",
     "costPrice": "2.97",
     "MSRP": "0.75",
     "QOH": "40",
@@ -61,7 +61,7 @@
   },
   {
     "ProName": "Dill pickle",
-    "GraphName": "",
+    "GraphName": "Lays_DillPickle.png",
     "costPrice": "2.97",
     "MSRP": "0.75",
     "QOH": "5",
@@ -71,7 +71,7 @@
   },
   {
     "ProName": "Original",
-    "GraphName": "",
+    "GraphName": "Lays_Classic.png",
     "costPrice": "2.97",
     "MSRP": "0.75",
     "QOH": "66",
@@ -81,7 +81,7 @@
   },
   {
     "ProName": "Bar-B-Q",
-    "GraphName": "",
+    "GraphName": "Lays_BBQ.png",
     "costPrice": "2.97",
     "MSRP": "0.75",
     "QOH": "90",
@@ -91,7 +91,7 @@
   },
   {
     "ProName": "Salt & vinegar",
-    "GraphName": "",
+    "GraphName": "Lays_s&v.png",
     "costPrice": "2.97",
     "MSRP": "0.75",
     "QOH": "80",
@@ -101,7 +101,7 @@
   },
   {
     "ProName": "Salt & vinegar",
-    "GraphName": "",
+    "GraphName": "MissVic_s&v.png",
     "costPrice": "3.25",
     "MSRP": "1.25",
     "QOH": "30",
