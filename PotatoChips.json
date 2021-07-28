@@ -2,20 +2,20 @@
   {
     "ProName": "Sweet Chili Heat",
     "GraphName": "Doritos_SweetChiliHeat.png",
-    "costPrice": "2.47",
-    "MSRP": "1.00",
-    "QOH": "73",
-    "QOBO": "127",
+    "costPrice": "509.99",
+    "MSRP": "2.47",
+    "QOH": "1",
+    "QOBO": "0",
     "Desc": " YUMMINESS MMMMM",
     "BRAND": "Doritos"
   },
   {
     "ProName": "Zesty Cheese",
     "GraphName": "Doritos_ZestyCheese.png",
-    "costPrice": "2.47",
-    "MSRP": "1.00",
-    "QOH": "25",
-    "QOBO": "175",
+    "costPrice": "599.99",
+    "MSRP": "2.47",
+    "QOH": "1",
+    "QOBO": "0",
     "Desc": "Cheesy goodness",
     "BRAND": "Doritos"
   },
