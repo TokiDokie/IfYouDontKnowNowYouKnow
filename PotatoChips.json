@@ -24,8 +24,8 @@
     "GraphName": "Doritos_CoolRanch.png",
     "costPrice": "599.99",
     "MSRP": "1.00",
-    "QOH": "101",
-    "QOBO": "99",
+    "QOH": "1",
+    "QOBO": "0",
     "Desc": "The coolest chips in town",
     "BRAND": "Doritos"
   },
@@ -44,7 +44,7 @@
     "GraphName": "Doritos_Chicken.png",
     "costPrice": "509.99",
     "MSRP": "1.50",
-    "QOH": "200",
+    "QOH": "1",
     "QOBO": "0",
     "Desc": "New Chicken flavored Doritos, sponsored by PUBG",
     "BRAND": "Doritos"
